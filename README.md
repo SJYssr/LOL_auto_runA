@@ -25,6 +25,11 @@
 - page down:呼出软件并暂停走A触发
 ## 退出说明
 - 请到隐藏的图标上右键选择退出
+## 问题
+### 如果没有效果请检查
+1. 是否用管理员权限运行
+2. 是否开启了走A
+3. 按键是否修改正确
 ### 界面展示
 ![img](https://github.com/SJYssr/img/raw/main/1/LOL_auto_runA.png)
 # RELASES
@@ -32,6 +37,7 @@
 ## 赞赏
 ![img](https://github.com/SJYssr/img/raw/main/1/zanshang.jpg)
 ## :warning: 免责声明
+- 本程序仅供学习交流使用，任何作弊行为造成的损失与作者无关。
 - 本代码遵循 [GPL-3.0 License](https://github.com/SJYssr/LOL_auto_runA/blob/main/LICENSE) 协议，允许**开源/免费使用和引用/修改/衍生代码的开源/免费使用**，不允许**修改和衍生的代码作为闭源的商业软件发布和销售**，禁止**使用本代码盈利**，以此代码为基础的程序**必须**同样遵守 [GPL-3.0 License](https://github.com/SJYssr/SLOL_auto_runA/blob/main/LICENSE) 协议
 - 本代码仅用于**学习讨论**，禁止**用于盈利**
 - 他人或组织使用本代码进行的任何**违法行为**与本人无关
