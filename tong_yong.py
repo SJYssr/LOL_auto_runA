@@ -142,7 +142,7 @@ class TaskBarIcon(wx.adv.TaskBarIcon):
                       "长按CapsLock - 触发走A\n"
                       "Esc - 最小化到托盘区\n"
                       "pgup -调出窗口并开启\n"
-                      "pgdn - 调出窗口并关闭\n"
+                      "pgdown - 调出窗口并关闭\n"
                       "ins - 设置触发按键\n"
                       "鼠标中间滚轮按下 - 设置攻速识别位置\n"
                       "作者：https://github.com/SJYssr\n", '使用帮助')
